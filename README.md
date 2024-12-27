@@ -1,6 +1,6 @@
 # TEXT-EDITOR.py
 
-**THIS PROJECT IS IN VERY EARLY DEVELOPMENT SO EXACT BUGS AND IT IS PROVIDED AS IS**
+**THIS PROJECT IS IN VERY EARLY DEVELOPMENT SO EXPECT BUGS AND IT IS PROVIDED AS IS**
 
 This is a Text Editor written entirely in Python with the help of Github Copilot (Free tier) included in Visual Studio 2022 and ChatGPT.
 
