@@ -1,5 +1,7 @@
 # TEXT-EDITOR.py
-This is a Text Editor written entirely in Python with the help of Github Copilot (Free tier) included in Visual Studio 2022 and ChatGPT.
 
+**THIS PROJECT IS IN VERY EARLY DEVELOPMENT SO EXACT BUGS AND IT IS PROVIDED AS IS**
+
+This is a Text Editor written entirely in Python with the help of Github Copilot (Free tier) included in Visual Studio 2022 and ChatGPT.
 
 YOU MUST HAVE PYTHON 3.12.x OR THERE ABOUTS AND TKINTER INSTALLED TO USE THIS PROGRAM THINGY AS YOU YOU NEED PYTHON 3.6 OR LATER BUT PYTHON 3.12.X OR WHATEVER IS THE LATEST PYTHON VERSION IS RECCOMENDED WITH PYTHON 3.6 AT THE BARE LOW END
