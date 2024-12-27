@@ -1,0 +1,25 @@
+Changelog
+Version 0.0.2 (Pre-release)
+•	Added: Syntax highlighting for Python keywords, strings, and comments.
+•	Configured tags for syntax highlighting: keyword, string, and comment.
+•	Implemented highlight_syntax method to apply syntax highlighting.
+•	Bound highlight_syntax method to <KeyRelease> event.
+Version 0.0.1 (Pre-release)
+•	Initial Implementation: Basic text editor functionality with system theme detection.
+•	Features:
+•	Detect and apply system theme (light or dark).
+•	Create, open, save, and save as text files.
+•	Undo, redo, cut, copy, paste, find and replace text.
+•	Change font family and size.
+•	Display word count.
+•	Show about dialog.
+•	UI Components:
+•	Text area with word wrap and undo support.
+•	Word count label.
+•	Menu bar with File, Edit, and Help menus.
+•	System Theme Detection:
+•	Windows: Uses Windows registry to detect theme.
+•	macOS: Uses defaults command to detect theme.
+•	Linux: Uses gsettings command to detect theme (example for GNOME).
+•	Error Handling:
+•	Defaults to light theme if system theme detection fails.
